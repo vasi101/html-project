@@ -1,0 +1,24 @@
+body{
+margin: 0;
+padding: 0;
+height:100vh;
+background: linear-gradient(128deg,#00d2ff,#3a7bd5);
+overflow: hidden;
+}
+.centre{
+   position: absolute;
+   left: 50%;
+   top: 50%;
+   transform: translate(-50%,-50%);
+   width: 400px;
+   background: white;
+   border-radius: 10px;
+   box-shadow: 10px 10px 15px rgb(0,0 ,0.50);
+   
+
+}
+.form h1{
+    text-align: center;
+    border-bottom: 1px solid silver;
+    padding-bottom: 20px;
+}
